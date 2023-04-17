@@ -14,4 +14,5 @@ Gem::Specification.new do |s|
   s.add_dependency "httparty", "~> 0.18.1"
   s.add_dependency "nokogiri", "~> 1.12.5"
   s.add_dependency "builder", "~> 3.2.4"
+  s.add_dependency "rspec", "~> 3.10.0"
 end
